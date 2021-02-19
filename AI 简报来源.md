@@ -8,33 +8,33 @@
 - https://mentorcruise.com/books/ml/
 - http://subscribe.machinelearnings.co/
 
-内网：
+公众号：
 
 - 雷锋网
-- 36 氪
 - AI 前线
 - 量子位
 - 机器之心
 - CVer
 - 机器学习算法工程师
-- https://github.com/ysh329/embedded-ai.bi-weekly
+- AI科技评论
+- 计算机视觉Daily
+- 人工智能爱好者社区
+- 夕小瑶的卖萌屋
+- 我爱计算机视觉
+- EETOP
+- HyperAI超神经 
+- 边缘智能实验室
+
+互联网：
+
+- [AI 守望者 | 知乎](https://www.zhihu.com/column/c_1342921772660961280)
+
+- [嵌入式 AI 周报](https://github.com/ysh329/embedded-ai.bi-weekly)
 
 GIF：
 
 - 制作软件：LICEcap
 - 图床：https://sm.ms/
-
-|      |  2   |  0   |  2   |  1   |      |
-| :--: | :--: | :--: | :--: | :--: | ---- |
-| 一月 |      |      |      |      |      |
-| 二月 |      |      |      |      |      |
-| 三月 |      |      |      |      |      |
-| 四月 |      |      |      |      |      |
-| 五月 |      |      |      |      |      |
-| 六月 |      |      |      |      |      |
-| 七月 |      |      |      |      |      |
-| 八月 |      |      |      |      |      |
-| 九月 |      |      |      |      |      |
 
 
 
