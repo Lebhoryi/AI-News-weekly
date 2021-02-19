@@ -8,7 +8,7 @@
 - https://mentorcruise.com/books/ml/
 - http://subscribe.machinelearnings.co/
 
-内网：
+公众号：
 
 - 雷锋网
 - AI 前线
@@ -22,8 +22,14 @@
 - 夕小瑶的卖萌屋
 - 我爱计算机视觉
 - EETOP
-- https://github.com/ysh329/embedded-ai.bi-weekly
-- 
+- HyperAI超神经 
+- 边缘智能实验室
+
+互联网：
+
+- [AI 守望者 | 知乎](https://www.zhihu.com/column/c_1342921772660961280)
+
+- [嵌入式 AI 周报](https://github.com/ysh329/embedded-ai.bi-weekly)
 
 GIF：
 
