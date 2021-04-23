@@ -7,6 +7,7 @@
 - https://ruder.io/nlp-beyond-english/
 - https://mentorcruise.com/books/ml/
 - http://subscribe.machinelearnings.co/
+- https://medium.com/
 
 公众号：
 
