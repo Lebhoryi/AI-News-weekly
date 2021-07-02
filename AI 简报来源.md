@@ -27,10 +27,11 @@
 - 边缘智能实验室
 - AI人工智能初学者
 - 大数据文摘
--  得捷电子DigiKey
--  Smarter
--  OpenCV与AI深度学习
--  安富莱电子
+- 得捷电子DigiKey
+- Smarter
+- OpenCV与AI深度学习
+- 安富莱电子
+-  灿视学长
 
 互联网：
 
