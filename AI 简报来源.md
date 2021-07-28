@@ -31,7 +31,10 @@
 - Smarter
 - OpenCV与AI深度学习
 - 安富莱电子
--  灿视学长
+-  **灿视学长**
+-  一碗数据汤
+-  CVHub
+-  IEautorc
 
 互联网：
 
