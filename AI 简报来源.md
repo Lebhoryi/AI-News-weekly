@@ -39,8 +39,8 @@
 互联网：
 
 - [AI 守望者 | 知乎](https://www.zhihu.com/column/c_1342921772660961280)
-
 - [嵌入式 AI 周报](https://github.com/ysh329/embedded-ai.bi-weekly)
+- [电子技术设计](https://www.ednchina.com/)
 
 GIF：
 
