@@ -1,5 +1,14 @@
 外网：
 
+- https://openai.com/news/
+- https://www.anthropic.com/news
+- https://developers.googleblog.com/
+- https://huggingface.co/blog
+- https://ai.meta.com/blog/
+- https://code.claude.com/docs/en/changelog/rss.xml
+- https://the-decoder.com/
+- https://tldr.tech/ai
+- https://news.ycombinator.com/
 - http://news.mit.edu/topic/artificial-intelligence2
 - https://artificialintelligence-news.com/
 - https://mailchi.mp/c778b9a8b6a0/the-monday-morning-macro-1464662?e=38428603d5
@@ -11,10 +20,13 @@
 
 公众号：
 
+- 机器之心
+- 量子位
+- 极客公园
+- 新智元
+- 雷锋网 AI 科技评论
 - COONEO
 - AI 前线
-- 量子位
-- 机器之心
 - CVer
 - 机器学习算法工程师
 - AI科技评论
@@ -43,6 +55,10 @@
 
 互联网：
 
+- [GitHub Trending](https://github.com/trending)
+- [OSS Insight Trends](https://ossinsight.io/)
+- [36氪](https://www.36kr.com/)
+- [虎嗅](https://www.huxiu.com/)
 - [AI 守望者 | 知乎](https://www.zhihu.com/column/c_1342921772660961280)
 - [嵌入式 AI 周报](https://github.com/ysh329/embedded-ai.bi-weekly)
 - [电子技术设计](https://www.ednchina.com/)
