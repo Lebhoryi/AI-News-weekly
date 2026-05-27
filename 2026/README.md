@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 05-27 | [AI简报20260527](./AI简报20260527.md) | Claude 数学推理、Qwen3.7-Max、Qwen Cloud、AI 治理 |
 | 05-26 | [AI简报20260526](./AI简报20260526.md) | AlphaProof Nexus、MCP 无状态、SaaS-Bench、Lance |
 | 05-25 | [AI简报20260525](./AI简报20260525.md) | DFlash、Claude Code AutoTTS、Gemini Embedding 2、Vibe Coding |
 | 05-21 | [AI简报20260521](./AI简报20260521.md) | Google I/O 2026、OpenAI 数学证明、Qwen3.7-Max、AI 内容溯源 |
