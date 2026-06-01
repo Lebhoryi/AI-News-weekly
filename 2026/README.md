@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-01 | [AI简报20260601](./AI简报20260601.md) | τ0-WM、ToolCUA、LiveBrowseComp、AI Agent |
 | 05-29 | [AI简报20260529](./AI简报20260529.md) | Anthropic 融资、Opus 4.8、Cognition、MCP 隧道 |
 | 05-28 | [AI简报20260528](./AI简报20260528.md) | Agent 隔离、DeepSWE、Codex 自改进、GLM-5 推理 |
 | 05-27 | [AI简报20260527](./AI简报20260527.md) | Claude 数学推理、Qwen3.7-Max、Qwen Cloud、AI 治理 |
