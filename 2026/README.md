@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-02 | [AI简报20260602](./AI简报20260602.md) | Anthropic IPO、OpenAI on AWS、MiniMax M3、MCP |
 | 06-01 | [AI简报20260601](./AI简报20260601.md) | τ0-WM、ToolCUA、LiveBrowseComp、AI Agent |
 | 05-29 | [AI简报20260529](./AI简报20260529.md) | Anthropic 融资、Opus 4.8、Cognition、MCP 隧道 |
 | 05-28 | [AI简报20260528](./AI简报20260528.md) | Agent 隔离、DeepSWE、Codex 自改进、GLM-5 推理 |
