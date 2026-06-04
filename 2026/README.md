@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-04 | [AI简报20260604](./AI简报20260604.md) | Gemma 4 12B、Ideogram 4.0、DeepSeek 融资、Agent 协作 |
 | 06-03 | [AI简报20260603](./AI简报20260603.md) | Codex 插件化、Project Glasswing、MCP Server、中文模型生态 |
 | 06-02 | [AI简报20260602](./AI简报20260602.md) | Anthropic IPO、OpenAI on AWS、MiniMax M3、MCP |
 | 06-01 | [AI简报20260601](./AI简报20260601.md) | τ0-WM、ToolCUA、LiveBrowseComp、AI Agent |
