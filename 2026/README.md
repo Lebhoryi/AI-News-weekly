@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-11 | [AI简报20260611](./AI简报20260611.md) | o3-pro、DiffusionGemma、补丁漏洞、HiDream、NotebookLM |
 | 06-10 | [AI简报20260610](./AI简报20260610.md) | Claude Fable 5、Google AI 判例、国产芯片、Gemini 翻译 |
 | 06-09 | [AI简报20260609](./AI简报20260609.md) | Apple Gemini、Core AI、月之暗面估值、MiMo 1000 TPS |
 | 06-05 | [AI简报20260605](./AI简报20260605.md) | ChatGPT 记忆升级、Proactive AI、Pay to Crawl、中文模型高频迭代 |
