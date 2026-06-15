@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-15 | [AI简报20260615](./AI简报20260615.md) | Fable 5下线、KPMG造假、OKF、Mirage、Agent Skills |
 | 06-11 | [AI简报20260611](./AI简报20260611.md) | Google AI判例、Prometheus、Amodei政策、Agent Skills、DiffusionGemma |
 | 06-10 | [AI简报20260610](./AI简报20260610.md) | Claude Fable 5、Google AI 判例、国产芯片、Gemini 翻译 |
 | 06-09 | [AI简报20260609](./AI简报20260609.md) | Apple Gemini、Core AI、月之暗面估值、MiMo 1000 TPS |
