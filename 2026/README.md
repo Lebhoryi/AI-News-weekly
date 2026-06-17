@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-17 | [AI简报20260617](./AI简报20260617.md) | SpaceX收购Cursor、DeepSeek融资、OpenAI burn rate、Qwen-Robot、Anthropic计费 |
 | 06-16 | [AI简报20260616](./AI简报20260616.md) | Fable谈判、数字主权、Nvidia发债、NeuroVLA、Claude Code |
 | 06-15 | [AI简报20260615](./AI简报20260615.md) | Fable 5下线、KPMG造假、OKF、Mirage、Agent Skills |
 | 06-11 | [AI简报20260611](./AI简报20260611.md) | Google AI判例、Prometheus、Amodei政策、Agent Skills、DiffusionGemma |
