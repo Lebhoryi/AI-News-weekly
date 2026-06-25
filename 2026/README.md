@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-25 | [AI简报20260625](./AI简报20260625.md) | Jalapeño芯片、谷歌人才外流、高通Modular、GLM-5.2、AI工厂 |
 | 06-24 | [AI简报20260624](./AI简报20260624.md) | GPT-5.5-Cyber、Seedance 2.5、Sakana Fugu、Claude Tag、算力信仰 |
 | 06-18 | [AI简报20260618](./AI简报20260618.md) | GLM-5.2、Odyssey世界模型、Cursor Origin、Android MCP、Anthropic首尔 |
 | 06-17 | [AI简报20260617](./AI简报20260617.md) | SpaceX收购Cursor、DeepSeek融资、OpenAI burn rate、Qwen-Robot、Anthropic计费 |
