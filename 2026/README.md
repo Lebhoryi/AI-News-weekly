@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 06-26 | [AI简报20260626](./AI简报20260626.md) | GPT-5.6审批、阿里蒸馏指控、Claude付费增长、Gemini Computer Use、Agent安全 |
 | 06-25 | [AI简报20260625](./AI简报20260625.md) | Jalapeño芯片、谷歌人才外流、高通Modular、GLM-5.2、AI工厂 |
 | 06-24 | [AI简报20260624](./AI简报20260624.md) | GPT-5.5-Cyber、Seedance 2.5、Sakana Fugu、Claude Tag、算力信仰 |
 | 06-18 | [AI简报20260618](./AI简报20260618.md) | GLM-5.2、Odyssey世界模型、Cursor Origin、Android MCP、Anthropic首尔 |
