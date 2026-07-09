@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-09 | [AI简报20260709](./AI简报20260709.md) | GPT-5.6、GPT-Live、Grok4.5、LingBot-VLA、Agent Skills |
 | 07-08 | [AI简报20260708](./AI简报20260708.md) | J-Lens、J-Space、DeepSeek芯片、模型出口管制、Copilot MAI |
 | 06-30 | [AI简报20260630](./AI简报20260630.md) | Claude Code供应链攻击、HBM投资、Amazon蒸馏、Micro-Agent、苏炜杰OpenAI |
 | 06-29 | [AI简报20260629](./AI简报20260629.md) | Coinbase中国模型、DeepSpec、Fable5解封、VibeThinker-3B、百度OCR |
