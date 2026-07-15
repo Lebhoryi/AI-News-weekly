@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-15 | [AI简报20260715](./AI简报20260715.md) | Qwen-Audio、GPT-5.6 Sol、DeepSeek估值、ABot-World |
 | 07-09 | [AI简报20260709](./AI简报20260709.md) | GPT-5.6、GPT-Live、Grok4.5、LingBot-VLA、Agent Skills |
 | 07-08 | [AI简报20260708](./AI简报20260708.md) | J-Lens、J-Space、DeepSeek芯片、模型出口管制、Copilot MAI |
 | 06-30 | [AI简报20260630](./AI简报20260630.md) | Claude Code供应链攻击、HBM投资、Amazon蒸馏、Micro-Agent、苏炜杰OpenAI |
