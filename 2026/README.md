@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-16 | [AI简报20260716](./AI简报20260716.md) | GPT-5.6 Sol、Apple Intelligence、面壁智能、DeepSeek IPO、端侧AI |
 | 07-15 | [AI简报20260715](./AI简报20260715.md) | Qwen-Audio、GPT-5.6 Sol、DeepSeek估值、ABot-World |
 | 07-09 | [AI简报20260709](./AI简报20260709.md) | GPT-5.6、GPT-Live、Grok4.5、LingBot-VLA、Agent Skills |
 | 07-08 | [AI简报20260708](./AI简报20260708.md) | J-Lens、J-Space、DeepSeek芯片、模型出口管制、Copilot MAI |
