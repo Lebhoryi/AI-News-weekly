@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-20 | [AI简报20260720](./AI简报20260720.md) | Kimi停售、Qwen 3.8、Fable5订阅分档、GenCeption |
 | 07-17 | [AI简报20260717](./AI简报20260717.md) | Kimi K3、WAIC 2026、Gemini 3.5 Pro跳票、美团LongCat-2.0、智谱财报 |
 | 07-16 | [AI简报20260716](./AI简报20260716.md) | GPT-5.6 Sol、Apple Intelligence、面壁智能、DeepSeek IPO、端侧AI |
 | 07-15 | [AI简报20260715](./AI简报20260715.md) | Qwen-Audio、GPT-5.6 Sol、DeepSeek估值、ABot-World |
