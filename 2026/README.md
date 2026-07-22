@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-22 | [AI简报20260722](./AI简报20260722.md) | 月之暗面500亿美元、Frozen v2芯片、Qwen-Image-3.0、北京Token工厂 |
 | 07-21 | [AI简报20260721](./AI简报20260721.md) | 开源权重辩论、Jacobian反例、HF Agent攻击、Qwen-Audio-3.0 |
 | 07-20 | [AI简报20260720](./AI简报20260720.md) | Kimi停售、Qwen 3.8、Fable5订阅分档、GenCeption |
 | 07-17 | [AI简报20260717](./AI简报20260717.md) | Kimi K3、WAIC 2026、Gemini 3.5 Pro跳票、美团LongCat-2.0、智谱财报 |
