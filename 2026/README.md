@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 07-25 | [AI简报20260725](./AI简报20260725.md) | Claude Opus 5、宇树科技、Flux 3、Kimi K3安全评测、菲尔兹奖OpenAI |
 | 07-24 | [AI简报20260724](./AI简报20260724.md) | Flux 3、DeepSeek战略、Google Gemini 4、AMD-Anthropic、脑机接口 |
 | 07-22 | [AI简报20260722](./AI简报20260722.md) | 月之暗面500亿美元、Frozen v2芯片、Qwen-Image-3.0、北京Token工厂 |
 | 07-21 | [AI简报20260721](./AI简报20260721.md) | 开源权重辩论、Jacobian反例、HF Agent攻击、Qwen-Audio-3.0 |
