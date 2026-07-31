@@ -7,6 +7,7 @@
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
 | 07-30 | [AI简报20260730](./AI简报20260730.md) | Kimi K3开源、DeepMind拆散AlphaFold、Mythos密码学漏洞、安全自治 |
+| 07-31 | [AI简报20260731](./AI简报20260731.md) | OpenAI降价80%、月之暗面F轮、字节豆包、宇树科技IPO |
 | 07-29 | [AI简报20260729](./AI简报20260729.md) | Mythos密码学漏洞、Nvidia投资SSI、Kimi K3开源、AI安全刹车 |
 | 07-28 | [AI简报20260728](./AI简报20260728.md) | Kimi K3开源、Anthropic开放权重立场、AI安全联盟、Token代理 |
 | 07-27 | [AI简报20260727](./AI简报20260727.md) | Claude Opus 5 ARC-AGI-3、OpenAI Agent逃逸、美国封禁中国开源模型、Kimi K3庆功 |
