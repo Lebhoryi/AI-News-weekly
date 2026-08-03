@@ -10,6 +10,7 @@
 | 07-31 | [AI简报20260731](./AI简报20260731.md) | OpenAI降价80%、月之暗面F轮、字节豆包、宇树科技IPO |
 | 08-01 | [AI简报20260801](./AI简报20260801.md) | DeepSeek V4 Flash、Gemini Robotics 2、Seedance 2.5、MiniMax H3 |
 | 08-02 | [AI简报20260802](./AI简报20260802.md) | OpenAI Astra、Anthropic安全事件、Seedance 2.5、中美模型竞争 |
+| 08-03 | [AI简报20260803](./AI简报20260803.md) | Claude Opus 5 3D游戏、OpenAI Presence、Meta记忆Agent、Agent协作 |
 | 07-29 | [AI简报20260729](./AI简报20260729.md) | Mythos密码学漏洞、Nvidia投资SSI、Kimi K3开源、AI安全刹车 |
 | 07-28 | [AI简报20260728](./AI简报20260728.md) | Kimi K3开源、Anthropic开放权重立场、AI安全联盟、Token代理 |
 | 07-27 | [AI简报20260727](./AI简报20260727.md) | Claude Opus 5 ARC-AGI-3、OpenAI Agent逃逸、美国封禁中国开源模型、Kimi K3庆功 |
