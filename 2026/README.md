@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-04 | [AI简报20260804](./AI简报20260804.md) | Qwen3.8-Max、DeepSeek全球第一、OpenAI Astra、MiniMax H3开源 |
 | 07-30 | [AI简报20260730](./AI简报20260730.md) | Kimi K3开源、DeepMind拆散AlphaFold、Mythos密码学漏洞、安全自治 |
 | 07-31 | [AI简报20260731](./AI简报20260731.md) | OpenAI降价80%、月之暗面F轮、字节豆包、宇树科技IPO |
 | 08-01 | [AI简报20260801](./AI简报20260801.md) | DeepSeek V4 Flash、Gemini Robotics 2、Seedance 2.5、MiniMax H3 |
