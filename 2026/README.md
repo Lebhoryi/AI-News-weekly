@@ -11,6 +11,7 @@
 | 08-06 | [AI简报20260806](./AI简报20260806.md) | DeepMind人事地震、DeepSeek 5000亿估值、Perplexity胜诉、FLUX 3 Video |
 | 08-07 | [AI简报20260807](./AI简报20260807.md) | OpenAI安全失控、DeepSeek涨价、字节严禁蒸馏、AI芯片竞争 |
 | 08-08 | [AI简报20260808](./AI简报20260808.md) | OpenAI安全危机、Agent Plugins标准、字节万亿参数模型、寒武纪业绩 |
+| 08-09 | [AI简报20260809](./AI简报20260809.md) | OpenAI Astra安全等级、DeepSeek涨价、xAI Imagine 2.0、Anthropic Fable 5 |
 | 07-30 | [AI简报20260730](./AI简报20260730.md) | Kimi K3开源、DeepMind拆散AlphaFold、Mythos密码学漏洞、安全自治 |
 | 07-31 | [AI简报20260731](./AI简报20260731.md) | OpenAI降价80%、月之暗面F轮、字节豆包、宇树科技IPO |
 | 08-01 | [AI简报20260801](./AI简报20260801.md) | DeepSeek V4 Flash、Gemini Robotics 2、Seedance 2.5、MiniMax H3 |
