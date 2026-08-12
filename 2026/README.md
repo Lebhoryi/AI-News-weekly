@@ -7,6 +7,7 @@
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
 | 08-04 | [AI简报20260804](./AI简报20260804.md) | Qwen3.8-Max、DeepSeek全球第一、OpenAI Astra、MiniMax H3开源 |
+| 08-12 | [AI简报20260812](./AI简报20260812.md) | Nemotron 3.5 Lightning、Anthropic水印、5000亿融资、面壁智能IPO |
 | 08-05 | [AI简报20260805](./AI简报20260805.md) | DeepSeek-V4-Flash登顶、OpenAI Astra、Anthropic 100亿美元算力、ForgeStencil |
 | 08-06 | [AI简报20260806](./AI简报20260806.md) | DeepMind人事地震、DeepSeek 5000亿估值、Perplexity胜诉、FLUX 3 Video |
 | 08-07 | [AI简报20260807](./AI简报20260807.md) | OpenAI安全失控、DeepSeek涨价、字节严禁蒸馏、AI芯片竞争 |
