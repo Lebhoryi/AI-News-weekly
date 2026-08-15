@@ -6,7 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
-| 08-04 | [AI简报20260804](./AI简报20260804.md) | Qwen3.8-Max、DeepSeek全球第一、OpenAI Astra、MiniMax H3开源 |
+| 08-15 | [AI简报20260815](./AI简报20260815.md) | GPT-5.6 Ultrafast、Qwen 3.8开源、GLM-5.3、微信WeLM加速 |
 | 08-12 | [AI简报20260812](./AI简报20260812.md) | Nemotron 3.5 Lightning、Anthropic水印、5000亿融资、面壁智能IPO |
 | 08-14 | [AI简报20260814](./AI简报20260814.md) | DeepSeek V4 Pro、Gemini 3.7 Flash、GPT-5.6 Sol、Harness开源 |
 | 08-13 | [AI简报20260813](./AI简报20260813.md) | DeepSeek V4 Pro、Grok 4.6、Qwen3.8万亿参数、智谱MSCI |
