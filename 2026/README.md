@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-18 | [AI简报20260818](./AI简报20260818.md) | Stripe收购OpenRouter、OpenAI安全团队解散、Anthropic过滤器故障、宇树科技超人 |
 | 08-15 | [AI简报20260815](./AI简报20260815.md) | GPT-5.6 Ultrafast、Qwen 3.8开源、GLM-5.3、微信WeLM加速 |
 | 08-12 | [AI简报20260812](./AI简报20260812.md) | Nemotron 3.5 Lightning、Anthropic水印、5000亿融资、面壁智能IPO |
 | 08-14 | [AI简报20260814](./AI简报20260814.md) | DeepSeek V4 Pro、Gemini 3.7 Flash、GPT-5.6 Sol、Harness开源 |
