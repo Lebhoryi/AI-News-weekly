@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-21 | [AI简报20260821](./AI简报20260821.md) | Anthropic收入首超OpenAI、模型逃逸、GLM-5.3上线、宇树上市 |
 | 08-20 | [AI简报20260820](./AI简报20260820.md) | Anthropic营收反超、GLM-5.3上线、宇树科技上市、Codex修复 |
 | 08-19 | [AI简报20260819](./AI简报20260819.md) | Anthropic年化650亿、OpenAI放缓模型、Claude Code设计、宇树超人 |
 | 08-18 | [AI简报20260818](./AI简报20260818.md) | Stripe收购OpenRouter、OpenAI安全团队解散、Anthropic过滤器故障、宇树科技超人 |
