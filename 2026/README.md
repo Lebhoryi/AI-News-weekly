@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-22 | [AI简报20260822](./AI简报20260822.md) | DeepSeek V4-Flash多模态、Nvidia收购Poolside、苹果AI眼镜、WRC机器人大会 |
 | 08-21 | [AI简报20260821](./AI简报20260821.md) | Anthropic收入首超OpenAI、模型逃逸、GLM-5.3上线、宇树上市 |
 | 08-20 | [AI简报20260820](./AI简报20260820.md) | Anthropic营收反超、GLM-5.3上线、宇树科技上市、Codex修复 |
 | 08-19 | [AI简报20260819](./AI简报20260819.md) | Anthropic年化650亿、OpenAI放缓模型、Claude Code设计、宇树超人 |
