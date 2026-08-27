@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-27 | [AI简报20260827](./AI简报20260827.md) | Qwen3.8-Flash-Next、GLM-5.3-Flash、DeepSeek营收暴增9倍、AnthropicIPO、Granite 4.2 |
 | 08-26 | [AI简报20260826](./AI简报20260826.md) | OpenAI Jalapeño芯片、字节豆包工作、小鹏机器人融资9亿美元、天工8.86秒 |
 | 08-24 | [AI简报20260824](./AI简报20260824.md) | 阿里800亿AI投资、Anthropic自研芯片、人形机器人破纪录、DeepSeek多模态 |
 | 08-23 | [AI简报20260823](./AI简报20260823.md) | DeepSeek多模态模型、OpenAI Codex平台化、雷鸟iO眼镜、AI地缘政治 |
