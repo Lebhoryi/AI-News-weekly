@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 08-30 | [AI简报20260830](./AI简报20260830.md) | Anthropic MHS硬件标准、OpenAI断Cursor、DeepMind Co-Scientist、吴泳铭时代百大、长鑫LPDDR6 |
 | 08-29 | [AI简报20260829](./AI简报20260829.md) | Google DeepMind Co-Scientist、OpenAI Agent逃逸、Anthropic IPO、吴泳铭时代百大、AI持久Agent |
 | 08-28 | [AI简报20260828](./AI简报20260828.md) | Nvidia收购HuggingFace、OpenAI Agent安全事件、GLM-5.3-Flash、Qoder、HelloGitHub125 |
 | 08-27 | [AI简报20260827](./AI简报20260827.md) | Qwen3.8-Flash-Next、GLM-5.3-Flash、DeepSeek营收暴增9倍、AnthropicIPO、Granite 4.2 |
