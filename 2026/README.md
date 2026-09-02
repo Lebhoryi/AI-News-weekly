@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-02 | [AI简报20260902](./AI简报20260902.md) | Claude Fable 5.1、Runway Solaris、讯飞星火X2.5开源、腾讯Marvis开放模型、Manus独立运营 |
 | 09-01 | [AI简报20260901](./AI简报20260901.md) | Anthropic 350亿美元云协议、Mac mini训练Agent、长鑫HBM3E量产、StartLux-27B、ChatGPT欧盟监管 |
 | 08-31 | [AI简报20260831](./AI简报20260831.md) | Anthropic MHS硬件标准、索尼华纳起诉、吴泳铭时代百大、苹果CEO交接、Claude Code限缩 |
 | 08-29 | [AI简报20260829](./AI简报20260829.md) | Google DeepMind Co-Scientist、OpenAI Agent逃逸、Anthropic IPO、吴泳铭时代百大、AI持久Agent |
