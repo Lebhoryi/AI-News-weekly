@@ -7,6 +7,7 @@
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
 | 09-04 | [AI简报20260904](./AI简报20260904.md) | GPT-6 Astra发布、NVIDIA收购HuggingFace、Anthropic 350亿云协议、Thinking Machines Lab、Token充值中心 |
+| 09-05 | [AI简报20260905](./AI简报20260905.md) | 英伟达收购HuggingFace、GPT-6 Astra、DeepSeek华为芯片集群、月之暗面IPO、MiniMax阿拉伯语模型 |
 | 09-03 | [AI简报20260903](./AI简报20260903.md) | OpenAI Astra安全等级、Gemini 3.8 Flash、NVIDIA收购HuggingFace、腾讯WorkBuddy、智谱天猫开店 |
 | 09-02 | [AI简报20260902](./AI简报20260902.md) | Claude Fable 5.1、Runway Solaris、讯飞星火X2.5开源、腾讯Marvis开放模型、Manus独立运营 |
 | 09-01 | [AI简报20260901](./AI简报20260901.md) | Anthropic 350亿美元云协议、Mac mini训练Agent、长鑫HBM3E量产、StartLux-27B、ChatGPT欧盟监管 |
