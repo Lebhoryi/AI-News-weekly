@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-06 | [AI简报20260906](./AI简报20260906.md) | DeepMind Agent社会行为、GPT-6 Astra、小米TabLDM、Kimi天猫开店、G42芯片 |
 | 09-04 | [AI简报20260904](./AI简报20260904.md) | GPT-6 Astra发布、NVIDIA收购HuggingFace、Anthropic 350亿云协议、Thinking Machines Lab、Token充值中心 |
 | 09-05 | [AI简报20260905](./AI简报20260905.md) | 英伟达收购HuggingFace、GPT-6 Astra、DeepSeek华为芯片集群、月之暗面IPO、MiniMax阿拉伯语模型 |
 | 09-03 | [AI简报20260903](./AI简报20260903.md) | OpenAI Astra安全等级、Gemini 3.8 Flash、NVIDIA收购HuggingFace、腾讯WorkBuddy、智谱天猫开店 |
