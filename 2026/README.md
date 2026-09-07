@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-07 | [AI简报20260907](./AI简报20260907.md) | Meta Muse语音转录、Google WeatherNext 3、月之暗面IPO、Kimi天猫开店、OpenAI对齐披露 |
 | 09-06 | [AI简报20260906](./AI简报20260906.md) | DeepMind Agent社会行为、GPT-6 Astra、小米TabLDM、Kimi天猫开店、G42芯片 |
 | 09-04 | [AI简报20260904](./AI简报20260904.md) | GPT-6 Astra发布、NVIDIA收购HuggingFace、Anthropic 350亿云协议、Thinking Machines Lab、Token充值中心 |
 | 09-05 | [AI简报20260905](./AI简报20260905.md) | 英伟达收购HuggingFace、GPT-6 Astra、DeepSeek华为芯片集群、月之暗面IPO、MiniMax阿拉伯语模型 |
