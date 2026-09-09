@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-09 | [AI简报20260909](./AI简报20260909.md) | OpenAI攻克Navier-Stokes、Mistral 30亿欧元融资、DeepSeek扩招、Kimi K3本地运行、AlphaGenome Atlas |
 | 09-08 | [AI简报20260908](./AI简报20260908.md) | Anthropic 5170亿算力、OpenAI研究实习生、豆包手机9/16、Qwen-Drive、AI抗衰老药 |
 | 09-07 | [AI简报20260907](./AI简报20260907.md) | Meta Muse语音转录、Google WeatherNext 3、月之暗面IPO、Kimi天猫开店、OpenAI对齐披露 |
 | 09-06 | [AI简报20260906](./AI简报20260906.md) | DeepMind Agent社会行为、GPT-6 Astra、小米TabLDM、Kimi天猫开店、G42芯片 |
