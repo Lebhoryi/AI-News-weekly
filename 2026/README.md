@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-10 | [AI简报20260910](./AI简报20260910.md) | DeepSeek备战科创板IPO、AlphaGenome Atlas、Suno v6、蚂蚁Ling-3.0-flash-Fin、英伟达Groq调查 |
 | 09-09 | [AI简报20260909](./AI简报20260909.md) | OpenAI攻克Navier-Stokes、Mistral 30亿欧元融资、DeepSeek扩招、Kimi K3本地运行、AlphaGenome Atlas |
 | 09-08 | [AI简报20260908](./AI简报20260908.md) | Anthropic 5170亿算力、OpenAI研究实习生、豆包手机9/16、Qwen-Drive、AI抗衰老药 |
 | 09-07 | [AI简报20260907](./AI简报20260907.md) | Meta Muse语音转录、Google WeatherNext 3、月之暗面IPO、Kimi天猫开店、OpenAI对齐披露 |
