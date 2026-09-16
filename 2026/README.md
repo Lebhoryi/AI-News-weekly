@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-16 | [AI简报20260916](./AI简报20260916.md) | Gemini 3.8 Live发布、苹果新Siri上线、豆包手机开卖、梁文锋CFO到位、荣耀MagicOS 11 | 
 | 09-15 | [AI简报20260915](./AI简报20260915.md) | Navier-Stokes官宣已解决、苹果Siri AI英语测试、DeepSeek-V4.1-Flash上千问、Anthropic冲刺2万亿IPO、微软MAI行为准则 |
 | 09-14 | [AI简报20260914](./AI简报20260914.md) | 智谱50亿美元融资、GPT-6 Astra无人机自主经营、Fable 5.1解370年密码、DeepSeek语音对话、开源搜索Agent |
 | 09-13 | [AI简报20260913](./AI简报20260913.md) | Amodei减速长文、Nvidia投Anthropic IPO、GPT-6 Astra空间推理、Kimi K3收入目标、算力统筹监测 |
