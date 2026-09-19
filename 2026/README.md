@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-19 | [AI简报20260919](./AI简报20260919.md) | 加州AI紧急开关行政令、Claude攻破OpenAI、MiniMax Code CLI开源、Anthropic 5GW算力 | 
 | 09-18 | [AI简报20260918](./AI简报20260918.md) | OpenAI霍奇猜想、GPT-6 Astra破译密文、宇树2000亿市值、Claude Code并行Agent、SpaceX买数据训Grok | 
 | 09-17 | [AI简报20260917](./AI简报20260917.md) | Anthropic产品合并、DeepMind Institute、苹果M8 AI服务器、B站AI竞技场、CUDA Rust | 
 | 09-16 | [AI简报20260916](./AI简报20260916.md) | Gemini 3.8 Live发布、苹果新Siri上线、豆包手机开卖、梁文锋CFO到位、荣耀MagicOS 11 | 
