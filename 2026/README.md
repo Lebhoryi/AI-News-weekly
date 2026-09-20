@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-20 | [AI简报20260920](./AI简报20260920.md) | Qwen3.8-Omni-Flash、昇腾生态拐点、Gemini误黑三公司、Unity官方插件、日冕工站 |
 | 09-19 | [AI简报20260919](./AI简报20260919.md) | 加州AI紧急开关行政令、Claude攻破OpenAI、MiniMax Code CLI开源、Anthropic 5GW算力 | 
 | 09-18 | [AI简报20260918](./AI简报20260918.md) | OpenAI霍奇猜想、GPT-6 Astra破译密文、宇树2000亿市值、Claude Code并行Agent、SpaceX买数据训Grok | 
 | 09-17 | [AI简报20260917](./AI简报20260917.md) | Anthropic产品合并、DeepMind Institute、苹果M8 AI服务器、B站AI竞技场、CUDA Rust | 
