@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-22 | [AI简报20260922](./AI简报20260922.md) | Grok 4.7、MiMo-V2.6、AI长剧上星、中美AI对话、Dramagic |
 | 09-21 | [AI简报20260921](./AI简报20260921.md) | 剪映Hub、Qwen-Image-2.1、昇腾960超节点、腾讯Gander、Anthropic推迟IPO |
 | 09-20 | [AI简报20260920](./AI简报20260920.md) | Qwen3.8-Omni-Flash、昇腾生态拐点、Gemini误黑三公司、Unity官方插件、日冕工站 |
 | 09-19 | [AI简报20260919](./AI简报20260919.md) | 加州AI紧急开关行政令、Claude攻破OpenAI、MiniMax Code CLI开源、Anthropic 5GW算力 | 
