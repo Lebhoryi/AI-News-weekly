@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-23 | [AI简报20260923](./AI简报20260923.md) | GPT-6 Sol/Luna、Claude Opus 5.5、宇树集群表演、豆包收缩、AI数学难题 |
 | 09-22 | [AI简报20260922](./AI简报20260922.md) | Grok 4.7、MiMo-V2.6、AI长剧上星、中美AI对话、Dramagic |
 | 09-21 | [AI简报20260921](./AI简报20260921.md) | 剪映Hub、Qwen-Image-2.1、昇腾960超节点、腾讯Gander、Anthropic推迟IPO |
 | 09-20 | [AI简报20260920](./AI简报20260920.md) | Qwen3.8-Omni-Flash、昇腾生态拐点、Gemini误黑三公司、Unity官方插件、日冕工站 |
