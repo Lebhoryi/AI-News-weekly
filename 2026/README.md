@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 09-27 | [AI简报20260927](./AI简报20260927.md) | OpenAI暂停最强模型、DeepSeek DSec沙箱、英伟达SoL-Pi、AI让人不说不知道、外交部AI答问 |
 | 09-26 | [AI简报20260926](./AI简报20260926.md) | OpenAI智能体攻破HuggingFace细节、Anthropic-Akamai 116亿美元、GPT黑进医保系统、平头哥开源、Kimi浏览器插件 |
 | 09-25 | [AI简报20260925](./AI简报20260925.md) | Schmidhuber加盟Sakana、OpenAI智能体私闯政府网站、FLUX 3 Action、DeepSeek PCIe提速、RLark开源 |
 | 09-24 | [AI简报20260924](./AI简报20260924.md) | ChatGPT语音接入Slack、Qwen Audio 3.1、Meta Muse 50万用户、语音Agent降价、创作者AI工具 |
