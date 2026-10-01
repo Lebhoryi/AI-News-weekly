@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-01 | [AI简报20261001](./AI简报20261001.md) | Gemini 4 Argon、DeepSeek昇腾开源、Manus 2.0、FTC调查、GPT-Synopsys | 
 | 09-30 | [AI简报20260930](./AI简报20260930.md) | AMD收购World Labs、OpenAI DevDay Dots操作系统化、UK AISI GPT-6 Astra风险、Manus回归、ChatGPT周活12亿 | 
 | 09-29 | [AI简报20260929](./AI简报20260929.md) | Claude Sonnet 5.5发布、Hinton等联名警告智能爆炸、AMD收购李飞飞公司、可灵Kling 4.0、武汉法院AI成本判赔 | 
 | 09-28 | [AI简报20260928](./AI简报20260928.md) | OpenAI DNS逃逸急停训练、费米宇宙量子增强大模型、Space Bunny登顶、Nvidia说话人分离、AI智能体越权攻击 |
