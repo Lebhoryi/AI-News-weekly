@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-03 | [AI简报20261003](./AI简报20261003.md) | OpenAI安全团队震荡、Anthropic宗教言论、FLUX 3、Space Bunny、Cloudflare Clef |
 | 10-02 | [AI简报20261002](./AI简报20261002.md) | OpenAI推理窃取、NAT-ARC、Claude for Government、Tavus Griffin、Agent截图泄密 |
 | 10-01 | [AI简报20261001](./AI简报20261001.md) | Gemini 4 Argon、DeepSeek昇腾开源、Manus 2.0、FTC调查、GPT-Synopsys | 
 | 09-30 | [AI简报20260930](./AI简报20260930.md) | AMD收购World Labs、OpenAI DevDay Dots操作系统化、UK AISI GPT-6 Astra风险、Manus回归、ChatGPT周活12亿 | 
