@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-06 | [AI简报20261006](./AI简报20261006.md) | Reflection Beam 501B、Hinton RSI 论文、Opus 5.5 材料发现、华为高通专利、Cloudflare Web Search |
 | 10-05 | [AI简报20261005](./AI简报20261005.md) | 特朗普超级智能部队、Terafab台积电、Gemini分层、NASA月球模型、Agent-Reach | 
 | 10-04 | [AI简报20261004](./AI简报20261004.md) | Kolibri主权开源模型、GPT-6 Astra冲击3D圈、Claude Code Mods、DeepSeek扩招DSec、Jev估值百亿 |
 | 10-03 | [AI简报20261003](./AI简报20261003.md) | OpenAI安全团队震荡、Anthropic宗教言论、FLUX 3、Space Bunny、Cloudflare Clef |
