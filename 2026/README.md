@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-08 | [AI简报20261008](./AI简报20261008.md) | GPT-6全面上线、Claude Haiku 5.5降价、Nous Research 15亿美元、博通造芯融资、DeepSeek千亿融资 |
 | 10-07 | [AI简报20261007](./AI简报20261007.md) | Mistral Large 4 万亿参数、DeepSeek 120亿美元融资、OpenAI 数学突破、月之暗面500亿估值、可灵赴港上市 |
 | 10-06 | [AI简报20261006](./AI简报20261006.md) | Reflection Beam 501B、Hinton RSI 论文、Opus 5.5 材料发现、华为高通专利、Cloudflare Web Search |
 | 10-05 | [AI简报20261005](./AI简报20261005.md) | 特朗普超级智能部队、Terafab台积电、Gemini分层、NASA月球模型、Agent-Reach | 
