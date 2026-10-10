@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-10 | [AI简报20261010](./AI简报20261010.md) | Claude 1000并行代理、Anthropic开源漏洞扫描、OpenAI 300亿融资、腾讯Hy-MT2、腾讯云Agent记忆 |
 | 10-09 | [AI简报20261009](./AI简报20261009.md) | Claude动画视频与仪表盘、Anthropic禁止虐待AI、数学家抵制OpenAI、DeepSeek 4.1 Flash热议、Agent安全 | 
 | 10-08 | [AI简报20261008](./AI简报20261008.md) | GPT-6全面上线、Claude Haiku 5.5降价、Nous Research 15亿美元、博通造芯融资、DeepSeek千亿融资 |
 | 10-07 | [AI简报20261007](./AI简报20261007.md) | Mistral Large 4 万亿参数、DeepSeek 120亿美元融资、OpenAI 数学突破、月之暗面500亿估值、可灵赴港上市 |
