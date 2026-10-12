@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-12 | [AI简报20261012](./AI简报20261012.md) | arXiv限投、多Agent性价比存疑、纳德拉超级智能、蚂蚁灵光2.0、ODyssey-3世界模型 |
 | 10-11 | [AI简报20261011](./AI简报20261011.md) | Claude虚假凶杀举报、OpenAI模型自毁环境、微软Decision-1、腾讯入股墨奇、VoiceStudio |
 | 10-10 | [AI简报20261010](./AI简报20261010.md) | Claude 1000并行代理、Anthropic开源漏洞扫描、OpenAI 300亿融资、腾讯Hy-MT2、腾讯云Agent记忆 |
 | 10-09 | [AI简报20261009](./AI简报20261009.md) | Claude动画视频与仪表盘、Anthropic禁止虐待AI、数学家抵制OpenAI、DeepSeek 4.1 Flash热议、Agent安全 | 
