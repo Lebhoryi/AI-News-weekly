@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-14 | [AI简报20261014](./AI简报20261014.md) | 406科学家联名断网、Anthropic拦截99%推理窃取、Character.ai破产、Gemini 4 Argon上线、字节百万token AI游戏 |
 | 10-13 | [AI简报20261013](./AI简报20261013.md) | GPT-6 Astra证明摆圆难题、Meta Muse Wonder Full、AlphaProof Nexus过同行评审、华为RSI通关25款游戏、智谱490tokens/s |
 | 10-12 | [AI简报20261012](./AI简报20261012.md) | arXiv限投、多Agent性价比存疑、纳德拉超级智能、蚂蚁灵光2.0、ODyssey-3世界模型 |
 | 10-11 | [AI简报20261011](./AI简报20261011.md) | Claude虚假凶杀举报、OpenAI模型自毁环境、微软Decision-1、腾讯入股墨奇、VoiceStudio |
