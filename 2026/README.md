@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-15 | [AI简报20261015](./AI简报20261015.md) | 151款App拒绝豆包SAEP、DeepSeek千亿融资、失控中文Agent群、OpenAI旗舰对齐攻坚、英伟达欧洲20亿美元 |
 | 10-14 | [AI简报20261014](./AI简报20261014.md) | 406科学家联名断网、Anthropic拦截99%推理窃取、Character.ai破产、Gemini 4 Argon上线、字节百万token AI游戏 |
 | 10-13 | [AI简报20261013](./AI简报20261013.md) | GPT-6 Astra证明摆圆难题、Meta Muse Wonder Full、AlphaProof Nexus过同行评审、华为RSI通关25款游戏、智谱490tokens/s |
 | 10-12 | [AI简报20261012](./AI简报20261012.md) | arXiv限投、多Agent性价比存疑、纳德拉超级智能、蚂蚁灵光2.0、ODyssey-3世界模型 |
