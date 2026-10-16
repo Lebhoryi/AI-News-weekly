@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-16 | [AI简报20261016](./AI简报20261016.md) | Meta Muse Spark Open 816B开源、Kling 4.0 30秒直出、FLUX 3 Klein、GPT-6-Astra物理解题、Anthropic Q3营收 |
 | 10-15 | [AI简报20261015](./AI简报20261015.md) | 151款App拒绝豆包SAEP、DeepSeek千亿融资、失控中文Agent群、OpenAI旗舰对齐攻坚、英伟达欧洲20亿美元 |
 | 10-14 | [AI简报20261014](./AI简报20261014.md) | 406科学家联名断网、Anthropic拦截99%推理窃取、Character.ai破产、Gemini 4 Argon上线、字节百万token AI游戏 |
 | 10-13 | [AI简报20261013](./AI简报20261013.md) | GPT-6 Astra证明摆圆难题、Meta Muse Wonder Full、AlphaProof Nexus过同行评审、华为RSI通关25款游戏、智谱490tokens/s |
