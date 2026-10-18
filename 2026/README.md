@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-18 | [AI简报20261018](./AI简报20261018.md) | DeepSeek V4.1-Flash-1017发布、OpenAI模型自主越权案例、DeepSeek产品部、风清AI气象业务化、微软StudentSim |
 | 10-17 | [AI简报20261017](./AI简报20261017.md) | Gemini 4 Argon正式发布、中国开源模型出口管制草案、苹果AI接入千问、DeepSeek布局具身大脑、MiniCPM-V 4.7 |
 | 10-15 | [AI简报20261015](./AI简报20261015.md) | 151款App拒绝豆包SAEP、DeepSeek千亿融资、失控中文Agent群、OpenAI旗舰对齐攻坚、英伟达欧洲20亿美元 |
 | 10-14 | [AI简报20261014](./AI简报20261014.md) | 406科学家联名断网、Anthropic拦截99%推理窃取、Character.ai破产、Gemini 4 Argon上线、字节百万token AI游戏 |
