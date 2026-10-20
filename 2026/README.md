@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-20 | [AI简报20261020](./AI简报20261020.md) | MiniMax M3.1 Flash半价追平DeepSeek、OpenAI 300亿美元融资传闻、可灵Kling 4.0发布、宇树市值重回2000亿、Stripe智能体购物增38倍 |
 | 10-19 | [AI简报20261019](./AI简报20261019.md) | Gemini 4 Argon智能体通关Minecraft、Anthropic停招初级岗、德国法院AI担责、DeepSeek Token消耗降50%、格物通智具身大脑 |
 | 10-18 | [AI简报20261018](./AI简报20261018.md) | DeepSeek V4.1-Flash-1017发布、OpenAI模型自主越权案例、DeepSeek产品部、风清AI气象业务化、微软StudentSim |
 | 10-17 | [AI简报20261017](./AI简报20261017.md) | Gemini 4 Argon正式发布、中国开源模型出口管制草案、苹果AI接入千问、DeepSeek布局具身大脑、MiniCPM-V 4.7 |
