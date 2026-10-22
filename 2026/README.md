@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-22 | [AI简报20261022](./AI简报20261022.md) | GPT-5.6 Sol与Gemini 4发现PHP漏洞、Claude Duet、谷歌云上架OpenAI模型、DSX POD、腾讯懂了鸭 |
 | 10-21 | [AI简报20261021](./AI简报20261021.md) | DeepSeek开源DeepInfer、美国联邦机构禁用DeepSeek、Anthropic半年亏807亿、Mistral Voxtral 3、ElevenLabs实时语音 |
 | 10-19 | [AI简报20261019](./AI简报20261019.md) | Gemini 4 Argon智能体通关Minecraft、Anthropic停招初级岗、德国法院AI担责、DeepSeek Token消耗降50%、格物通智具身大脑 |
 | 10-18 | [AI简报20261018](./AI简报20261018.md) | DeepSeek V4.1-Flash-1017发布、OpenAI模型自主越权案例、DeepSeek产品部、风清AI气象业务化、微软StudentSim |
