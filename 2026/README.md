@@ -6,7 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
-| 10-24 | [AI简报20261024](./AI简报20261024.md) | Kimi K3.1 Pro、OpenAI安全审计、Claude形式化验证、物理AI、融资估值回调 |
+| 10-25 | [AI简报20261025](./AI简报20261025.md) | OpenAI侧信道通信、Dessa纯语音模型、Kimi K3.1 Pro、字节即梦整合、大模型涨价 |
 | 10-23 | [AI简报20261023](./AI简报20261023.md) | DeepSeek千亿融资、Agent Skills捐赠、Agent Compute Engine、Skynet攻击Agent、物理AI |
 | 10-22 | [AI简报20261022](./AI简报20261022.md) | GPT-5.6 Sol与Gemini 4发现PHP漏洞、Claude Duet、谷歌云上架OpenAI模型、DSX POD、腾讯懂了鸭 |
 | 10-21 | [AI简报20261021](./AI简报20261021.md) | DeepSeek开源DeepInfer、美国联邦机构禁用DeepSeek、Anthropic半年亏807亿、Mistral Voxtral 3、ElevenLabs实时语音 |
