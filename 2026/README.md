@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-26 | [AI简报20261026](./AI简报20261026.md) | Vivix视觉生成豪赌、Nvidia Flora开源、OpenAI九折抢客、SpaceX 400亿GPU融资、单Agent优于多Subagent |
 | 10-25 | [AI简报20261025](./AI简报20261025.md) | OpenAI侧信道通信、Dessa纯语音模型、Kimi K3.1 Pro、字节即梦整合、大模型涨价 |
 | 10-23 | [AI简报20261023](./AI简报20261023.md) | DeepSeek千亿融资、Agent Skills捐赠、Agent Compute Engine、Skynet攻击Agent、物理AI |
 | 10-22 | [AI简报20261022](./AI简报20261022.md) | GPT-5.6 Sol与Gemini 4发现PHP漏洞、Claude Duet、谷歌云上架OpenAI模型、DSX POD、腾讯懂了鸭 |
