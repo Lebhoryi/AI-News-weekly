@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-27 | [AI简报20261027](./AI简报20261027.md) | Anthropic递交IPO、GPT-6.1 Terra降价、Meta 950亿融资、微软万人自愿离职、Kimi致歉 |
 | 10-26 | [AI简报20261026](./AI简报20261026.md) | Vivix视觉生成豪赌、Nvidia Flora开源、OpenAI九折抢客、SpaceX 400亿GPU融资、单Agent优于多Subagent |
 | 10-25 | [AI简报20261025](./AI简报20261025.md) | OpenAI侧信道通信、Dessa纯语音模型、Kimi K3.1 Pro、字节即梦整合、大模型涨价 |
 | 10-23 | [AI简报20261023](./AI简报20261023.md) | DeepSeek千亿融资、Agent Skills捐赠、Agent Compute Engine、Skynet攻击Agent、物理AI |
