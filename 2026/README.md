@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-29 | [AI简报20261029](./AI简报20261029.md) | Gemini 4 Carbon、AI Agent攻破Anthropic、EdgeRock-4B、Physical Intelligence融资、Hi3D开源 |
 | 10-28 | [AI简报20261028](./AI简报20261028.md) | OpenAI诺奖核验、Qwen 3.8回传争议、Genie 4、脑虎7亿融资、英伟达入股Meta |
 | 10-27 | [AI简报20261027](./AI简报20261027.md) | Anthropic递交IPO、GPT-6.1 Terra降价、Meta 950亿融资、微软万人自愿离职、Kimi致歉 |
 | 10-26 | [AI简报20261026](./AI简报20261026.md) | Vivix视觉生成豪赌、Nvidia Flora开源、OpenAI九折抢客、SpaceX 400亿GPU融资、单Agent优于多Subagent |
