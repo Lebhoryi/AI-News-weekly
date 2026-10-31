@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 10-31 | [AI简报20261031](./AI简报20261031.md) | GLM 5.3自主攻破Firefox、Claude Code恶意扩展、Anthropic垃圾级评级、AI融资大分流、灵巧手触觉数采 |
 | 10-30 | [AI简报20261030](./AI简报20261030.md) | Mistral Large 4开源、PSI破解量子难题、分子之心AI制药、无问芯穹GPU算子榜、OpenAI用量翻倍 |
 | 10-29 | [AI简报20261029](./AI简报20261029.md) | Gemini 4 Carbon、AI Agent攻破Anthropic、EdgeRock-4B、Physical Intelligence融资、Hi3D开源 |
 | 10-28 | [AI简报20261028](./AI简报20261028.md) | OpenAI诺奖核验、Qwen 3.8回传争议、Genie 4、脑虎7亿融资、英伟达入股Meta |
