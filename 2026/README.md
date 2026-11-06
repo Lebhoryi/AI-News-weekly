@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-06 | [AI简报20261106](./AI简报20261106.md) | GPT-6 Cyber挖漏洞、Astra安全任务装死、文心5.5 Flash Base开源、GDPx基准12%天花板、AI资本面回调 |
 | 11-05 | [AI简报20261105](./AI简报20261105.md) | Kimi K3.1 Pro开源权重、混元Hy4正式版、OpenAI收购Pierre、Ripple-65B、CloudOpsBench |
 | 11-04 | [AI简报20261104](./AI简报20261104.md) | GPT-6 Astra设计硬件、DeepSeek V5昇腾950、Claude Message Threads、研究结论15.7个月过期、Seedance海外收入50% |
 | 11-03 | [AI简报20261103](./AI简报20261103.md) | 权重空间编程、Anthropic季度亏损、Qwen4对决Hy4、Marvell收购Lumentum、高盛收回AI工具 |
