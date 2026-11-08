@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-08 | [AI简报20261108](./AI简报20261108.md) | Anthropic降价IPO、美企开源支出89%流向中国模型、Kimi 61%、开闭源网攻差距、Agent可验证性 |
 | 11-07 | [AI简报20261107](./AI简报20261107.md) | METR审计自我加速、Anthropic内部三模型、OpenAI 110亿融资、腾讯Hy4扩容、墨芯稀疏芯片 |
 | 11-06 | [AI简报20261106](./AI简报20261106.md) | GPT-6 Cyber挖漏洞、Astra安全任务装死、文心5.5 Flash Base开源、GDPx基准12%天花板、AI资本面回调 |
 | 11-05 | [AI简报20261105](./AI简报20261105.md) | Kimi K3.1 Pro开源权重、混元Hy4正式版、OpenAI收购Pierre、Ripple-65B、CloudOpsBench |
