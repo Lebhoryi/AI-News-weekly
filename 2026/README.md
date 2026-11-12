@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-12 | [AI简报20261112](./AI简报20261112.md) | 英伟达董事会罢免黄仁勋、Qwen4-Max预览1M上下文、Anthropic三天换AMD、Gemini决策API、Grok应用94.7%裸奔 |
 | 11-11 | [AI简报20261111](./AI简报20261111.md) | Anthropic IPO估值1.02万亿、AlphaProof Code验证Signal、Claude办公套件、Qwen4偷跑登顶、平头哥分拆港股 |
 | 11-10 | [AI简报20261110](./AI简报20261110.md) | Fable 5.2登顶降价20%、谷歌四套TPU、Seedream 5.5单张0.28元、千问办公Team Agent、ERNIE Evolve RSI |
 | 11-09 | [AI简报20261109](./AI简报20261109.md) | 黄仁勋婚外情与英伟达董事会调查、Anthropic路演估值1.2万亿、Claude Code密钥泄漏、苹果HALO用Qwen+宇树G1、启元万台交付 |
