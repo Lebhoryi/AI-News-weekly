@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-15 | [AI简报20261115](./AI简报20261115.md) | DeepSeek全家桶API开放、英伟达6万人请愿黄仁勋回归、Gemini 4 Carbon登顶MathArena、SPU湿实验基准、Hy Realtime |
 | 11-14 | [AI简报20261114](./AI简报20261114.md) | Anthropic IPO六倍超额认购、中港投资者被拒、Blackwell显卡指纹取证、Naive-N0.5-Flash、CoMind多机协同 |
 | 11-13 | [AI简报20261113](./AI简报20261113.md) | 黄仁勋辞职Kress接任、Gemini 4 Hydrogen反超Argon、OpenAI思维链监控失效、张一鸣2029追平、中芯AI配套芯片 |
 | 11-12 | [AI简报20261112](./AI简报20261112.md) | 英伟达董事会罢免黄仁勋、Qwen4-Max预览1M上下文、Anthropic三天换AMD、Gemini决策API、Grok应用94.7%裸奔 |
