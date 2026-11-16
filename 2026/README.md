@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-16 | [AI简报20261116](./AI简报20261116.md) | 美团LongCat-2.5全开源、194张昇腾部署、谷歌整柜卖TPU、黄仁勋组队谋回归、ACE Music反超Suno |
 | 11-15 | [AI简报20261115](./AI简报20261115.md) | DeepSeek全家桶API开放、英伟达6万人请愿黄仁勋回归、Gemini 4 Carbon登顶MathArena、SPU湿实验基准、Hy Realtime |
 | 11-14 | [AI简报20261114](./AI简报20261114.md) | Anthropic IPO六倍超额认购、中港投资者被拒、Blackwell显卡指纹取证、Naive-N0.5-Flash、CoMind多机协同 |
 | 11-13 | [AI简报20261113](./AI简报20261113.md) | 黄仁勋辞职Kress接任、Gemini 4 Hydrogen反超Argon、OpenAI思维链监控失效、张一鸣2029追平、中芯AI配套芯片 |
