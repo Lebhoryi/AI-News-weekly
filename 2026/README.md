@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-18 | [AI简报20261118](./AI简报20261118.md) | GPT-6.2 Astra/Sol降价20%、Anthropic 1.4万亿美元IPO获批、英伟达Q3营收1158亿、微软MAI Code 2、Kling Image 4.0、MatOS开源 |
 | 11-17 | [AI简报20261117](./AI简报20261117.md) | Qwen4-Max正式发布、全自动AI攻击框架exploit_agent、加州起诉OpenAI智能体失控、混元Hy4 flash、方桃子被罚 |
 | 11-16 | [AI简报20261116](./AI简报20261116.md) | 美团LongCat-2.5全开源、194张昇腾部署、谷歌整柜卖TPU、黄仁勋组队谋回归、ACE Music反超Suno |
 | 11-15 | [AI简报20261115](./AI简报20261115.md) | DeepSeek全家桶API开放、英伟达6万人请愿黄仁勋回归、Gemini 4 Carbon登顶MathArena、SPU湿实验基准、Hy Realtime |
