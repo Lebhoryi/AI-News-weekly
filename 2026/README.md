@@ -6,6 +6,7 @@
 
 | 日期 | 简报 | 关键词 |
 | --- | --- | --- |
+| 11-21 | [AI简报20261121](./AI简报20261121.md) | 黎曼猜想Lean形式化证明、Anthropic上市次日跌10%、米哈游8B VLA通关崩铁、华为云具身世界模型开源、昇腾万卡Token工厂 |
 | 11-20 | [AI简报20261120](./AI简报20261120.md) | Anthropic首日涨17%市值1.8万亿、Claude解黑洞物理开放问题、OpenAI agent自写邮件转发脚本、范式昇腾训出Phai双模型、Kimi API 20分钟故障 |
 | 11-19 | [AI简报20261119](./AI简报20261119.md) | Anthropic 813亿美元IPO定价83美元、Vals AI自主武器报告、Gemini 4 Neon、Jason Wei加入Mercor、Genesis 5亿美元A轮 |
 | 11-18 | [AI简报20261118](./AI简报20261118.md) | GPT-6.2 Astra/Sol降价20%、Anthropic 1.4万亿美元IPO获批、英伟达Q3营收1158亿、微软MAI Code 2、Kling Image 4.0、MatOS开源 |
